@@ -32,6 +32,8 @@ A complete Hospital Management System built using PHP & MySQL to manage patients
 6.  Import `hms.sql` file (given inside the SQL file folder)
 7.  Run the script: `http://localhost/hospital`
 
+8.  Wait still in process this work
+
 ### 🔑 Demo Login Credentials
 
 Login Details
