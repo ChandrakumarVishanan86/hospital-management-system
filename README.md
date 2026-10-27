@@ -22,7 +22,7 @@ A complete Hospital Management System built using PHP & MySQL to manage patients
 ### 🚀 How To Run This Project
 
 1.  Download the zip file / Clone the repo
-2.  Extract the file and copy `hospital` folder
+2.  Extract the Zip file   `hospital` folder
 3.  Paste inside root directory:
     - For XAMPP: `xampp/htdocs/`
     - For WAMP: `wamp/www/`
